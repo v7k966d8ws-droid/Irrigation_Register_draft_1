@@ -1,6 +1,2 @@
-DD Produce Irrigation Timeline 2.0.0 — new development branch based on 1.9.36.
-Upload index.html to the root of a NEW GitHub branch or repository.
-Overview, Register, and Irrigation Log are removed from navigation; underlying code and local saved data remain intact.
-Future rotation overlays are disabled.
-Existing irrigation timeline, planner, weekly diary, and products/injectors remain available.
-Make a JSON backup of your records before switching versions.
+DD Produce Irrigation Timeline Build 2.0.1
+Based on 2.0.0. Adds individual operation deletion with confirmation and immediate timeline redraw after successful planner save, preserving the selected farm filter. Does not delete other operations sharing a schedule group. Browser localStorage remains device/browser specific.
