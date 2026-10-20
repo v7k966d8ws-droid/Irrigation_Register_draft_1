@@ -1,1 +1,2 @@
-DD Produce Irrigation Timeline 2.0.2 — draft branch. Fixed 08:00-to-08:00 operating-day view; compact operation fields; shortened fertilizer selection labels; edit/delete in AquaLink popup. Preserve existing records in browser storage. Test on iPad before production use.
+DD Produce Irrigation Timeline Build 2.0.3
+Based on 2.0.2. Restructures operation editor: save/cancel adjacent to operation tabs, AquaLink shift in operation heading, outlet and irrigation type side by side. Preserves all existing record storage and programming code.
