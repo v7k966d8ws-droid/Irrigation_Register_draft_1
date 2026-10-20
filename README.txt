@@ -1,2 +1,1 @@
-DD Produce Irrigation Timeline Build 2.0.1
-Based on 2.0.0. Adds individual operation deletion with confirmation and immediate timeline redraw after successful planner save, preserving the selected farm filter. Does not delete other operations sharing a schedule group. Browser localStorage remains device/browser specific.
+DD Produce Irrigation Timeline 2.0.2 — draft branch. Fixed 08:00-to-08:00 operating-day view; compact operation fields; shortened fertilizer selection labels; edit/delete in AquaLink popup. Preserve existing records in browser storage. Test on iPad before production use.
