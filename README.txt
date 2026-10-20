@@ -1,2 +1,2 @@
-DD Produce Irrigation Timeline Build 2.0.3
-Based on 2.0.2. Restructures operation editor: save/cancel adjacent to operation tabs, AquaLink shift in operation heading, outlet and irrigation type side by side. Preserves all existing record storage and programming code.
+DD Produce Irrigation Timeline 2.0.4
+Based on compact-editor 2.0.3. On successful Save Farm Schedule, redraw timeline from saved rows, keep All farms filter, and show the saved schedule week. Existing record schema unchanged.
